@@ -1,0 +1,4 @@
+{"event_id":"EVT-1793639418815","session_id":"SESSION-418786","student_id":"=SUM(1,2)","event_type":"SESSION_STARTED","timestamp":"2026-11-02T17:10:18.812Z"}
+{"event_id":"EVT-1793639418822-9bpt","session_id":"SESSION-418786","student_id":"=SUM(1,2)","event_type":"TAB_SWITCHED","timestamp":"2026-11-02T17:10:18.822Z"}
+{"event_id":"EVT-1793639419881-on3o","session_id":"SESSION-418786","student_id":"=SUM(1,2)","event_type":"TAB_RETURNED","timestamp":"2026-11-02T17:10:19.880Z"}
+{"event_id":"EVT-1793639517094-bd7t","session_id":"SESSION-418786","student_id":"=SUM(1,2)","event_type":"DISCONNECTED","timestamp":"2026-11-02T17:11:57.094Z"}

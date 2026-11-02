@@ -1,0 +1,4 @@
+{"event_id":"EVT-1793639920494","session_id":"SESSION-920477","student_id":"STU-990","event_type":"SESSION_STARTED","timestamp":"2026-11-02T17:18:40.489Z"}
+{"event_id":"EVT-1793639920502-ivpy","session_id":"SESSION-920477","student_id":"STU-990","event_type":"TAB_SWITCHED","tab_title":"ChatGPT - AI Assistant","target_domain":"chatgpt.com","timestamp":"2026-11-02T17:18:40.502Z"}
+{"event_id":"EVT-1793639920524-9i60","session_id":"SESSION-920477","student_id":"STU-990","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:18:40.523Z"}
+{"event_id":"EVT-1793640022296-7o0k","session_id":"SESSION-920477","student_id":"STU-990","event_type":"DISCONNECTED","timestamp":"2026-11-02T17:20:22.296Z"}

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SBAMS Student Monitor</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="card">
+    <header class="header">
+      <div class="logo-title">
+        <div class="status-indicator" id="headerStatusDot"></div>
+        <h1 class="title">SBAMS Monitor</h1>
+      </div>
+      <span class="badge" id="connBadge">Disconnected</span>
+    </header>
+
+    <main class="content" id="mainContent">
+      <div id="joinView">
+        <p class="subtitle">Join Supervised Class Session</p>
+        
+        <label for="studentId">Student ID</label>
+        <input type="text" id="studentId" placeholder="e.g. STU-101" required>
+
+        <label for="studentName">Full Name</label>
+        <input type="text" id="studentName" placeholder="e.g. Jane Doe" required>
+
+        <label for="sessionCode">Session Code</label>
+        <input type="text" id="sessionCode" placeholder="e.g. PW-82K9Q" style="text-transform: uppercase;" required>
+
+        <div class="notice">
+          <strong>Privacy Disclosure:</strong> This session monitors tab switches away from your selected exam/work tab and periods of inactivity. No keystrokes, personal passwords, URLs, or browsing histories are recorded.
+        </div>
+
+        <button id="joinBtn" class="btn primary-btn">Join Session</button>
+      </div>
+
+      <div id="activeView" class="hidden">
+        <div class="session-info">
+          <div><small>Session</small><strong id="displaySessionName">-</strong></div>
+          <div><small>Student ID</small><strong id="displayStudentId">-</strong></div>
+        </div>
+
+        <div class="monitored-tab-box">
+          <small>Monitored Target Tab</small>
+          <div class="tab-title" id="displayTabTitle">Current Active Tab</div>
+        </div>
+
+        <div class="status-box">
+          <small>Live Status</small>
+          <div class="status-pill active" id="statusPill">Active</div>
+          <p id="statusDesc" class="status-desc">Your target tab is selected and browser window is focused.</p>
+        </div>
+
+        <button id="leaveBtn" class="btn danger-btn">Leave Session</button>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <span>SBAMS Extension v1.0.0</span>
+    </footer>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

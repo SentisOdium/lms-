@@ -1,0 +1,12 @@
+{"event_id":"EVT-1793640488521","session_id":"SESSION-488507","student_id":"STU-RAPID","event_type":"SESSION_STARTED","timestamp":"2026-11-02T17:28:08.517Z"}
+{"event_id":"EVT-1793640488529-cua6","session_id":"SESSION-488507","student_id":"STU-RAPID","event_type":"TAB_SWITCHED","tab_title":"Google Search #1","target_domain":"google.com","timestamp":"2026-11-02T17:28:08.529Z"}
+{"event_id":"EVT-1793640488543-5xig","session_id":"SESSION-488507","student_id":"STU-RAPID","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:28:08.543Z"}
+{"event_id":"EVT-1793640488552-t5fm","session_id":"SESSION-488507","student_id":"STU-RAPID","event_type":"TAB_SWITCHED","tab_title":"Google Search #2","target_domain":"google.com","timestamp":"2026-11-02T17:28:08.552Z"}
+{"event_id":"EVT-1793640488567-qawh","session_id":"SESSION-488507","student_id":"STU-RAPID","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:28:08.567Z"}
+{"event_id":"EVT-1793640488576-vemi","session_id":"SESSION-488507","student_id":"STU-RAPID","event_type":"TAB_SWITCHED","tab_title":"Google Search #3","target_domain":"google.com","timestamp":"2026-11-02T17:28:08.576Z"}
+{"event_id":"EVT-1793640488587-8w60","session_id":"SESSION-488507","student_id":"STU-RAPID","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:28:08.587Z"}
+{"event_id":"EVT-1793640488595-hknp","session_id":"SESSION-488507","student_id":"STU-RAPID","event_type":"TAB_SWITCHED","tab_title":"Google Search #4","target_domain":"google.com","timestamp":"2026-11-02T17:28:08.595Z"}
+{"event_id":"EVT-1793640488605-9bhl","session_id":"SESSION-488507","student_id":"STU-RAPID","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:28:08.605Z"}
+{"event_id":"EVT-1793640488615-l4kv","session_id":"SESSION-488507","student_id":"STU-RAPID","event_type":"TAB_SWITCHED","tab_title":"Google Search #5","target_domain":"google.com","timestamp":"2026-11-02T17:28:08.615Z"}
+{"event_id":"EVT-1793640488624-gx4k","session_id":"SESSION-488507","student_id":"STU-RAPID","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:28:08.624Z"}
+{"event_id":"EVT-1793640603964-d34f","session_id":"SESSION-488507","student_id":"STU-RAPID","event_type":"DISCONNECTED","timestamp":"2026-11-02T17:30:03.964Z"}

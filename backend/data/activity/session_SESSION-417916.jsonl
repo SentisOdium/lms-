@@ -1,0 +1,19 @@
+{"event_id":"EVT-1793641423912","session_id":"SESSION-417916","student_id":"111","event_type":"SESSION_STARTED","timestamp":"2026-11-02T17:43:43.906Z"}
+{"event_id":"EVT-1793641430925-nblt","session_id":"SESSION-417916","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:43:50.894Z"}
+{"event_id":"EVT-1793641433926-ohtl","session_id":"SESSION-417916","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"New Tab","target_domain":"external","timestamp":"2026-11-02T17:43:53.894Z"}
+{"event_id":"EVT-1793641438352-hj2d","session_id":"SESSION-417916","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:43:58.315Z"}
+{"event_id":"EVT-1793641448804-pt74","session_id":"SESSION-417916","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:44:08.745Z"}
+{"event_id":"EVT-1793641448839-xtyl","session_id":"SESSION-417916","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:44:08.827Z"}
+{"event_id":"EVT-1793641448874-m2mw","session_id":"SESSION-417916","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:44:08.864Z"}
+{"event_id":"EVT-1793641452359-s4hf","session_id":"SESSION-417916","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:44:12.328Z"}
+{"event_id":"EVT-1793641452399-lst7","session_id":"SESSION-417916","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"Google Gemini","target_domain":"gemini.google.com","timestamp":"2026-11-02T17:44:12.394Z"}
+{"event_id":"EVT-1793641459991-ntct","session_id":"SESSION-417916","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"New Tab","target_domain":"newtab","timestamp":"2026-11-02T17:44:19.950Z"}
+{"event_id":"EVT-1793641462218-qe8k","session_id":"SESSION-417916","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:44:22.173Z"}
+{"event_id":"EVT-1793641470028-ic5i","session_id":"SESSION-417916","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:44:29.944Z"}
+{"event_id":"EVT-1793641470067-funp","session_id":"SESSION-417916","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"Google Gemini","target_domain":"gemini.google.com","timestamp":"2026-11-02T17:44:30.064Z"}
+{"event_id":"EVT-1793641474820-f3lu","session_id":"SESSION-417916","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:44:34.784Z"}
+{"event_id":"EVT-1793641480112-iv1s","session_id":"SESSION-417916","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:44:40.087Z"}
+{"event_id":"EVT-1793641480230-s6le","session_id":"SESSION-417916","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:44:40.221Z"}
+{"event_id":"EVT-1793641481830-jl10","session_id":"SESSION-417916","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:44:41.783Z"}
+{"event_id":"EVT-1793641481841","session_id":"SESSION-417916","student_id":"111","event_type":"SESSION_LEFT","timestamp":"2026-11-02T17:44:41.833Z"}
+{"event_id":"EVT-1793641577573-ej7c","session_id":"SESSION-417916","student_id":"111","event_type":"DISCONNECTED","timestamp":"2026-11-02T17:46:17.573Z"}

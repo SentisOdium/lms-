@@ -1,0 +1,4 @@
+{"event_id":"EVT-1793640548958","session_id":"SESSION-539236","student_id":"1111","event_type":"SESSION_STARTED","timestamp":"2026-11-02T17:29:08.953Z"}
+{"event_id":"EVT-1793640551515-nqxs","session_id":"SESSION-539236","student_id":"1111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:29:11.464Z"}
+{"event_id":"EVT-1793640553943-daik","session_id":"SESSION-539236","student_id":"1111","event_type":"WINDOW_FOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:29:13.914Z"}
+{"event_id":"EVT-1793640556777-0xjm","session_id":"SESSION-539236","student_id":"1111","event_type":"TAB_SWITCHED","tab_title":"New Tab","target_domain":"unknown","timestamp":"2026-11-02T17:29:16.709Z"}

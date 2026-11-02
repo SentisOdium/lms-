@@ -1,0 +1,58 @@
+{"event_id":"EVT-1793640943313","session_id":"SESSION-935673","student_id":"111","event_type":"SESSION_STARTED","timestamp":"2026-11-02T17:35:43.309Z"}
+{"event_id":"EVT-1793640955813-zy93","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:35:55.789Z"}
+{"event_id":"EVT-1793640957640-4e1y","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"New Tab","target_domain":"newtab","timestamp":"2026-11-02T17:35:57.605Z"}
+{"event_id":"EVT-1793640959558-83gk","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:35:59.523Z"}
+{"event_id":"EVT-1793640962148-vlzo","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:36:02.116Z"}
+{"event_id":"EVT-1793640970143-8lgu","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:36:10.089Z"}
+{"event_id":"EVT-1793640970214-l6i3","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:36:10.211Z"}
+{"event_id":"EVT-1793640970243-hupk","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:36:10.241Z"}
+{"event_id":"EVT-1793640974490-sqj4","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"ChatGPT","target_domain":"chatgpt.com","timestamp":"2026-11-02T17:36:14.454Z"}
+{"event_id":"EVT-1793640982578-ap44","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:36:22.541Z"}
+{"event_id":"EVT-1793640982621-h44m","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:36:22.619Z"}
+{"event_id":"EVT-1793640982686-whn6","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:36:22.642Z"}
+{"event_id":"EVT-1793640984851-ah57","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"New Tab","target_domain":"external","timestamp":"2026-11-02T17:36:24.809Z"}
+{"event_id":"EVT-1793640990091-lv18","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:36:30.006Z"}
+{"event_id":"EVT-1793641000157-5u09","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:36:40.133Z"}
+{"event_id":"EVT-1793641000175-wsub","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"ChatGPT","target_domain":"chatgpt.com","timestamp":"2026-11-02T17:36:40.173Z"}
+{"event_id":"EVT-1793641002220-h2i3","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:36:42.172Z"}
+{"event_id":"EVT-1793641005524-z2fs","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:36:45.494Z"}
+{"event_id":"EVT-1793641005562-7ehr","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"Google Gemini","target_domain":"gemini.google.com","timestamp":"2026-11-02T17:36:45.553Z"}
+{"event_id":"EVT-1793641008389-l2z2","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:36:48.357Z"}
+{"event_id":"EVT-1793641008460-duq1","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:36:48.410Z"}
+{"event_id":"EVT-1793641014244-2and","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"New Tab","target_domain":"newtab","timestamp":"2026-11-02T17:36:54.220Z"}
+{"event_id":"EVT-1793641016699-w8z3","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:36:56.656Z"}
+{"event_id":"EVT-1793641025991-k5uc","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:37:05.951Z"}
+{"event_id":"EVT-1793641035689-on0n","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:37:15.655Z"}
+{"event_id":"EVT-1793641038922-eg3d","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:37:18.897Z"}
+{"event_id":"EVT-1793641053840-696k","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:37:33.816Z"}
+{"event_id":"EVT-1793641058682-z6dj","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:37:38.659Z"}
+{"event_id":"EVT-1793641067090-feex","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:37:47.067Z"}
+{"event_id":"EVT-1793641080645-6ski","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:38:00.605Z"}
+{"event_id":"EVT-1793641080679-o2wf","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"Google Gemini","target_domain":"gemini.google.com","timestamp":"2026-11-02T17:38:00.671Z"}
+{"event_id":"EVT-1793641084476-xswp","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:38:04.451Z"}
+{"event_id":"EVT-1793641084520-rye7","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:38:04.518Z"}
+{"event_id":"EVT-1793641084560-5jj7","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:38:04.557Z"}
+{"event_id":"EVT-1793641087302-avda","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"ChatGPT","target_domain":"chatgpt.com","timestamp":"2026-11-02T17:38:07.274Z"}
+{"event_id":"EVT-1793641091140-42ku","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:38:11.115Z"}
+{"event_id":"EVT-1793641115158-5hel","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:38:35.135Z"}
+{"event_id":"EVT-1793641119485-k7r5","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:38:39.458Z"}
+{"event_id":"EVT-1793641119542-ajm1","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"Google Gemini","target_domain":"gemini.google.com","timestamp":"2026-11-02T17:38:39.530Z"}
+{"event_id":"EVT-1793641122909-j1dd","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:38:42.881Z"}
+{"event_id":"EVT-1793641122936-nv56","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:38:42.933Z"}
+{"event_id":"EVT-1793641122985-l6nf","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:38:42.982Z"}
+{"event_id":"EVT-1793641127633-xz95","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:38:47.611Z"}
+{"event_id":"EVT-1793641141690-pa8x","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:39:01.666Z"}
+{"event_id":"EVT-1793641141724-3fbi","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"ChatGPT","target_domain":"chatgpt.com","timestamp":"2026-11-02T17:39:01.722Z"}
+{"event_id":"EVT-1793641226323-xwwv","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:40:26.298Z"}
+{"event_id":"EVT-1793641226352-cq5d","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"2627A BSIT 1-5 Acco014 | Messenger","target_domain":"www.messenger.com","timestamp":"2026-11-02T17:40:26.348Z"}
+{"event_id":"EVT-1793641227628-rrqg","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"Kayle Carmona | Messenger","target_domain":"www.messenger.com","timestamp":"2026-11-02T17:40:27.587Z"}
+{"event_id":"EVT-1793641235283-zhay","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"New Tab","target_domain":"external","timestamp":"2026-11-02T17:40:35.256Z"}
+{"event_id":"EVT-1793641237599-djlv","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:40:37.570Z"}
+{"event_id":"EVT-1793641239378-7ebk","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_SWITCHED","tab_title":"2627A BSIT 1-5 Acco014 | Messenger","target_domain":"www.messenger.com","timestamp":"2026-11-02T17:40:39.349Z"}
+{"event_id":"EVT-1793641371492-tznx","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:42:51.451Z"}
+{"event_id":"EVT-1793641371581-kiy4","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:42:51.578Z"}
+{"event_id":"EVT-1793641373487-mda1","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:42:53.447Z"}
+{"event_id":"EVT-1793641380016-pjp2","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:42:59.963Z"}
+{"event_id":"EVT-1793641380034-8iuj","session_id":"SESSION-935673","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:43:00.031Z"}
+{"event_id":"EVT-1793641385582-tiek","session_id":"SESSION-935673","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:43:05.546Z"}
+{"event_id":"EVT-1793641385596","session_id":"SESSION-935673","student_id":"111","event_type":"SESSION_LEFT","timestamp":"2026-11-02T17:43:05.585Z"}

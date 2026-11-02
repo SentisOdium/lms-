@@ -1,0 +1,34 @@
+{
+  "name": "sbams-backend",
+  "version": "1.0.0",
+  "description": "Student Browser Activity Monitoring System Backend",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test:storage": "node test/storage.test.js",
+    "test:auth": "node test/auth_sessions.test.js",
+    "test:enrollment": "node test/phase3_enrollment.test.js",
+    "test:realtime": "node test/phase4_5_realtime.test.js",
+    "test:csv": "node test/phase6_csv.test.js",
+    "test:tab-tracking": "node test/tab_tracking.test.js",
+    "test:rapid-switching": "node test/rapid_tab_switching.test.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "socket.io": "^4.8.1",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "socket.io-client": "^4.8.4"
+  },
+  "overrides": {
+    "minimatch": "^11.0.1"
+  }
+}

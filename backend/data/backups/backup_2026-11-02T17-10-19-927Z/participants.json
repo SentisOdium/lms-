@@ -1,0 +1,116 @@
+[
+  {
+    "participant_id": "PART-774470",
+    "session_id": "SESSION-727556",
+    "student_id": "2023-19316-MN-1",
+    "student_name": "Anomrac",
+    "status": "active",
+    "tab_switches": 0,
+    "joined_at": "2026-11-02T16:42:54.468Z",
+    "last_heartbeat": "2026-11-02T16:42:54.468Z"
+  },
+  {
+    "participant_id": "PART-798247",
+    "session_id": "SESSION-798234",
+    "student_id": "STU-001",
+    "student_name": "Alice Johnson",
+    "status": "disconnected",
+    "tab_switches": 0,
+    "joined_at": "2026-11-02T16:43:18.246Z",
+    "last_heartbeat": "2026-11-02T16:43:18.246Z"
+  },
+  {
+    "participant_id": "PART-014880",
+    "session_id": "SESSION-014866",
+    "student_id": "STU-101",
+    "student_name": "Grace Hopper Student",
+    "status": "left",
+    "tab_switches": 0,
+    "joined_at": "2026-11-02T16:46:54.879Z",
+    "last_heartbeat": "2026-11-02T16:46:54.879Z",
+    "left_at": "2026-11-02T16:46:54.896Z"
+  },
+  {
+    "participant_id": "PART-104821",
+    "session_id": "SESSION-957126",
+    "student_id": "gggggd",
+    "student_name": "ghdgfg",
+    "status": "left",
+    "tab_switches": 0,
+    "joined_at": "2026-11-02T16:48:24.819Z",
+    "last_heartbeat": "2026-11-02T16:48:24.819Z",
+    "left_at": "2026-11-02T16:49:27.995Z"
+  },
+  {
+    "participant_id": "PART-173016",
+    "session_id": "SESSION-957126",
+    "student_id": "fggg",
+    "student_name": "gfgg",
+    "status": "left",
+    "tab_switches": 0,
+    "joined_at": "2026-11-02T16:49:33.013Z",
+    "last_heartbeat": "2026-11-02T16:49:33.013Z",
+    "left_at": "2026-11-02T16:51:43.609Z"
+  },
+  {
+    "participant_id": "PART-567759",
+    "session_id": "SESSION-567702",
+    "student_id": "STU-201",
+    "student_name": "Bob Smith",
+    "status": "disconnected",
+    "tab_switches": 1,
+    "joined_at": "2026-11-02T16:56:07.757Z",
+    "last_heartbeat": "2026-11-02T16:56:07.791Z"
+  },
+  {
+    "participant_id": "PART-734902",
+    "session_id": "SESSION-719587",
+    "student_id": "ertertertert",
+    "student_name": "rterte",
+    "status": "active",
+    "tab_switches": 1,
+    "joined_at": "2026-11-02T16:58:54.901Z",
+    "last_heartbeat": "2026-11-02T17:01:51.519Z"
+  },
+  {
+    "participant_id": "PART-944689",
+    "session_id": "SESSION-937577",
+    "student_id": "dfffff",
+    "student_name": "ffsfdsfsdf",
+    "status": "left",
+    "tab_switches": 1,
+    "joined_at": "2026-11-02T17:02:24.687Z",
+    "last_heartbeat": "2026-11-02T17:03:24.731Z",
+    "left_at": "2026-11-02T17:04:58.213Z"
+  },
+  {
+    "participant_id": "PART-123088",
+    "session_id": "SESSION-937577",
+    "student_id": "ffffff",
+    "student_name": "ffffd",
+    "status": "disconnected",
+    "tab_switches": 0,
+    "joined_at": "2026-11-02T17:05:23.086Z",
+    "last_heartbeat": "2026-11-02T17:05:53.137Z"
+  },
+  {
+    "participant_id": "PART-401202",
+    "session_id": "SESSION-401193",
+    "student_id": "=SUM(1,2)",
+    "student_name": "Security Tester",
+    "status": "away",
+    "tab_switches": 1,
+    "joined_at": "2026-11-02T17:10:01.201Z",
+    "last_heartbeat": "2026-11-02T17:10:01.214Z"
+  },
+  {
+    "participant_id": "PART-418813",
+    "session_id": "SESSION-418786",
+    "student_id": "=SUM(1,2)",
+    "student_name": "Security Tester",
+    "status": "active",
+    "tab_switches": 1,
+    "joined_at": "2026-11-02T17:10:18.812Z",
+    "last_heartbeat": "2026-11-02T17:10:19.880Z"
+  }
+]

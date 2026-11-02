@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "SBAMS - Student Activity Monitor",
+  "version": "1.0.0",
+  "description": "Student Browser Activity Monitoring System client extension for supervised sessions",
+  "permissions": [
+    "tabs",
+    "idle",
+    "storage"
+  ],
+  "host_permissions": [
+    "http://localhost:5000/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "SBAMS Activity Monitor"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
+

@@ -1,0 +1,4 @@
+{"event_id":"EVT-1793638567761","session_id":"SESSION-567702","student_id":"STU-201","event_type":"SESSION_STARTED","timestamp":"2026-11-02T16:56:07.757Z"}
+{"event_id":"EVT-1793638567771-khft","session_id":"SESSION-567702","student_id":"STU-201","event_type":"TAB_SWITCHED","timestamp":"2026-11-02T16:56:07.767Z"}
+{"event_id":"EVT-1793638567778-ucge","session_id":"SESSION-567702","student_id":"STU-201","event_type":"TAB_RETURNED","timestamp":"2026-11-02T16:56:07.776Z"}
+{"event_id":"EVT-1793638669167-fncw","session_id":"SESSION-567702","student_id":"STU-201","event_type":"DISCONNECTED","timestamp":"2026-11-02T16:57:49.167Z"}

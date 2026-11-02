@@ -1,0 +1,16 @@
+{"event_id":"EVT-1793640345540","session_id":"SESSION-340414","student_id":"1111","event_type":"SESSION_STARTED","timestamp":"2026-11-02T17:25:45.536Z"}
+{"event_id":"EVT-1793640347140-qtwc","session_id":"SESSION-340414","student_id":"1111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:25:47.088Z"}
+{"event_id":"EVT-1793640349572-7ge6","session_id":"SESSION-340414","student_id":"1111","event_type":"WINDOW_FOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:25:49.528Z"}
+{"event_id":"EVT-1793640355390-kqqu","session_id":"SESSION-340414","student_id":"1111","event_type":"WINDOW_FOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:25:55.363Z"}
+{"event_id":"EVT-1793640362855-mfrz","session_id":"SESSION-340414","student_id":"1111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:26:02.812Z"}
+{"event_id":"EVT-1793640366098-vtq4","session_id":"SESSION-340414","student_id":"1111","event_type":"TAB_SWITCHED","tab_title":"ChatGPT","target_domain":"chatgpt.com","timestamp":"2026-11-02T17:26:06.065Z"}
+{"event_id":"EVT-1793640390731-x4zj","session_id":"SESSION-340414","student_id":"1111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:26:30.701Z"}
+{"event_id":"EVT-1793640394944-02s5","session_id":"SESSION-340414","student_id":"1111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:26:34.896Z"}
+{"event_id":"EVT-1793640402035-qql8","session_id":"SESSION-340414","student_id":"1111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:26:42.001Z"}
+{"event_id":"EVT-1793640403250-6stz","session_id":"SESSION-340414","student_id":"1111","event_type":"WINDOW_FOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:26:43.217Z"}
+{"event_id":"EVT-1793640404501-pgyz","session_id":"SESSION-340414","student_id":"1111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:26:44.466Z"}
+{"event_id":"EVT-1793640407674-z38r","session_id":"SESSION-340414","student_id":"1111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:26:47.624Z"}
+{"event_id":"EVT-1793640434247-vakt","session_id":"SESSION-340414","student_id":"1111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:27:14.224Z"}
+{"event_id":"EVT-1793640435535-tgaz","session_id":"SESSION-340414","student_id":"1111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:27:15.500Z"}
+{"event_id":"EVT-1793640456978-2eee","session_id":"SESSION-340414","student_id":"1111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:27:36.936Z"}
+{"event_id":"EVT-1793640458062-u59c","session_id":"SESSION-340414","student_id":"1111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:27:38.019Z"}

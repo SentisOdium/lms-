@@ -1,0 +1,6 @@
+{"event_id":"EVT-1793638734905","session_id":"SESSION-719587","student_id":"ertertertert","event_type":"SESSION_STARTED","timestamp":"2026-11-02T16:58:54.901Z"}
+{"event_id":"EVT-1793638829138-685r","session_id":"SESSION-719587","student_id":"ertertertert","event_type":"DISCONNECTED","timestamp":"2026-11-02T17:00:29.138Z"}
+{"event_id":"EVT-1793638903185-z7eu","session_id":"SESSION-719587","student_id":"ertertertert","event_type":"TAB_SWITCHED","timestamp":"2026-11-02T17:01:43.134Z"}
+{"event_id":"EVT-1793638909101-9t0x","session_id":"SESSION-719587","student_id":"ertertertert","event_type":"WINDOW_FOCUSED","timestamp":"2026-11-02T17:01:49.097Z"}
+{"event_id":"EVT-1793638910184-4ntb","session_id":"SESSION-719587","student_id":"ertertertert","event_type":"WINDOW_UNFOCUSED","timestamp":"2026-11-02T17:01:50.149Z"}
+{"event_id":"EVT-1793638911520-xkg0","session_id":"SESSION-719587","student_id":"ertertertert","event_type":"WINDOW_FOCUSED","timestamp":"2026-11-02T17:01:51.472Z"}

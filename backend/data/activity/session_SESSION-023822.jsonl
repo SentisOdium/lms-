@@ -1,0 +1,12 @@
+{"event_id":"EVT-1793640045149","session_id":"SESSION-023822","student_id":"111","event_type":"SESSION_STARTED","timestamp":"2026-11-02T17:20:45.145Z"}
+{"event_id":"EVT-1793640046608-q98o","session_id":"SESSION-023822","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:20:46.562Z"}
+{"event_id":"EVT-1793640048718-hi6l","session_id":"SESSION-023822","student_id":"111","event_type":"WINDOW_FOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:20:48.689Z"}
+{"event_id":"EVT-1793640050728-akil","session_id":"SESSION-023822","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:20:50.679Z"}
+{"event_id":"EVT-1793640064683-eqze","session_id":"SESSION-023822","student_id":"111","event_type":"TAB_RETURNED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:21:04.640Z"}
+{"event_id":"EVT-1793640066176-euv7","session_id":"SESSION-023822","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:21:06.130Z"}
+{"event_id":"EVT-1793640068077-49vd","session_id":"SESSION-023822","student_id":"111","event_type":"WINDOW_FOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:21:08.056Z"}
+{"event_id":"EVT-1793640069076-lb7w","session_id":"SESSION-023822","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:21:09.041Z"}
+{"event_id":"EVT-1793640077216-5779","session_id":"SESSION-023822","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:21:17.178Z"}
+{"event_id":"EVT-1793640079049-5dmh","session_id":"SESSION-023822","student_id":"111","event_type":"WINDOW_UNFOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:21:19.018Z"}
+{"event_id":"EVT-1793640082036-j9au","session_id":"SESSION-023822","student_id":"111","event_type":"WINDOW_FOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:21:22.001Z"}
+{"event_id":"EVT-1793640091754-7g4e","session_id":"SESSION-023822","student_id":"111","event_type":"WINDOW_FOCUSED","tab_title":null,"target_domain":null,"timestamp":"2026-11-02T17:21:31.701Z"}

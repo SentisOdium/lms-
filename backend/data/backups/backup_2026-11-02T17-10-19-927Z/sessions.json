@@ -1,0 +1,112 @@
+[
+  {
+    "session_id": "SESSION-591883",
+    "session_name": "Introduction to Algorithms",
+    "session_code": "VK-STBWP",
+    "instructor_id": "INST-591724",
+    "status": "ended",
+    "created_at": "2026-11-02T16:39:51.883Z",
+    "started_at": "2026-11-02T16:39:51.883Z",
+    "ended_at": "2026-11-02T16:39:51.898Z"
+  },
+  {
+    "session_id": "SESSION-727556",
+    "session_name": "Midterm",
+    "session_code": "YZ-BEGWM",
+    "instructor_id": "INST-708829",
+    "status": "ended",
+    "created_at": "2026-11-02T16:42:07.556Z",
+    "started_at": "2026-11-02T16:42:07.556Z",
+    "ended_at": "2026-11-02T16:45:49.392Z"
+  },
+  {
+    "session_id": "SESSION-798234",
+    "session_name": "CS101 Supervised Exam",
+    "session_code": "HR-J8ZEM",
+    "instructor_id": "INST-798215",
+    "status": "active",
+    "created_at": "2026-11-02T16:43:18.234Z",
+    "started_at": "2026-11-02T16:43:18.234Z",
+    "ended_at": null
+  },
+  {
+    "session_id": "SESSION-940757",
+    "session_name": "dgdfgfgfgdf",
+    "session_code": "WR-NXEEH",
+    "instructor_id": "INST-708829",
+    "status": "ended",
+    "created_at": "2026-11-02T16:45:40.757Z",
+    "started_at": "2026-11-02T16:45:46.981Z",
+    "ended_at": "2026-11-02T16:45:51.579Z"
+  },
+  {
+    "session_id": "SESSION-957126",
+    "session_name": "ggggghgfjjhgj",
+    "session_code": "WC-ZURRY",
+    "instructor_id": "INST-708829",
+    "status": "ended",
+    "created_at": "2026-11-02T16:45:57.126Z",
+    "started_at": "2026-11-02T16:47:44.417Z",
+    "ended_at": "2026-11-02T16:51:48.472Z"
+  },
+  {
+    "session_id": "SESSION-014866",
+    "session_name": "Operating Systems Lab",
+    "session_code": "WH-78S5L",
+    "instructor_id": "INST-014848",
+    "status": "ended",
+    "created_at": "2026-11-02T16:46:54.866Z",
+    "started_at": "2026-11-02T16:46:54.866Z",
+    "ended_at": "2026-11-02T16:46:54.913Z"
+  },
+  {
+    "session_id": "SESSION-567702",
+    "session_name": "Information Theory Lab",
+    "session_code": "PR-E24EK",
+    "instructor_id": "INST-567673",
+    "status": "active",
+    "created_at": "2026-11-02T16:56:07.702Z",
+    "started_at": "2026-11-02T16:56:07.702Z",
+    "ended_at": null
+  },
+  {
+    "session_id": "SESSION-719587",
+    "session_name": "fghghgfhg",
+    "session_code": "TD-PYNX6",
+    "instructor_id": "INST-708829",
+    "status": "ended",
+    "created_at": "2026-11-02T16:58:39.587Z",
+    "started_at": "2026-11-02T16:58:39.587Z",
+    "ended_at": "2026-11-02T17:02:09.570Z"
+  },
+  {
+    "session_id": "SESSION-937577",
+    "session_name": "tet",
+    "session_code": "ZQ-8Z9VK",
+    "instructor_id": "INST-708829",
+    "status": "active",
+    "created_at": "2026-11-02T17:02:17.577Z",
+    "started_at": "2026-11-02T17:02:17.577Z",
+    "ended_at": null
+  },
+  {
+    "session_id": "SESSION-401193",
+    "session_name": "Compiler Architecture Final Exam",
+    "session_code": "CZ-ZS22Q",
+    "instructor_id": "INST-401167",
+    "status": "active",
+    "created_at": "2026-11-02T17:10:01.193Z",
+    "started_at": "2026-11-02T17:10:01.193Z",
+    "ended_at": null
+  },
+  {
+    "session_id": "SESSION-418786",
+    "session_name": "Compiler Architecture Final Exam",
+    "session_code": "PL-M4R5W",
+    "instructor_id": "INST-418756",
+    "status": "active",
+    "created_at": "2026-11-02T17:10:18.786Z",
+    "started_at": "2026-11-02T17:10:18.786Z",
+    "ended_at": null
+  }
+]

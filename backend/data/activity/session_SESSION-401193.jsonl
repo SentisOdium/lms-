@@ -1,0 +1,3 @@
+{"event_id":"EVT-1793639401204","session_id":"SESSION-401193","student_id":"=SUM(1,2)","event_type":"SESSION_STARTED","timestamp":"2026-11-02T17:10:01.201Z"}
+{"event_id":"EVT-1793639401214-3roa","session_id":"SESSION-401193","student_id":"=SUM(1,2)","event_type":"TAB_SWITCHED","timestamp":"2026-11-02T17:10:01.214Z"}
+{"event_id":"EVT-1793639501344-a2nt","session_id":"SESSION-401193","student_id":"=SUM(1,2)","event_type":"DISCONNECTED","timestamp":"2026-11-02T17:11:41.344Z"}
